@@ -1,0 +1,168 @@
+DRAFT
+
+Creating a Transparent Ethical standard: The purpose of this document is to assist in the process of creating a transparent ethical standard or code.
+
+The original use case for this document: To create a transparent ethical standard for a website that reviews games.
+
+The overall goal of this document: To allow for the creation and presentation of any transparent ethical standard for a given purpose. This will not create a complete ethical standard, but it will help to create and maintain a smaller, and transparent, ethical standard for a given purpose.
+
+What problem is this trying to solve: There are a lot of ethical standards that exist. As a result what is ethical can be difficult to pin down, and even more difficult to define what is considered ethical. This document will not solve that particular problem, but it does have one purpose: To choose or create one to adhere to, as well as how to update it.
+
+Why?
+The thought process here is that it is important to have a transparent ethical standard, even if it is flawed, and to be open and present that standard to the public at large. Whichever ethical standard is created or chosen is irrelevant, as the point is to have it be open to public scrutiny. From this, anyone can see the set of values that guides the process behind either the presentation or creation of ideas set forth by the provider. Ethics can change, evolve, or be better understood with time so the ethical code/standard must also be tangible, reviewable, and editable to go alongside it.
+
+Values change over time, as our understanding of said values deepen and sometimes even expand.
+
+Thus, this document will go over the process of creating, adding, and deriving upon transparent ethical standards.
+
+—
+
+This document will follow along the transparent ethical standard creation process, and document the creation of a transparent ethical standard based upon its original use case.
+
+
+Creation: Creating a purpose-built transparent transparent ethical standard begins with an idea of what you are trying to achieve, a goal. It starts with what you are trying to accomplish with it. In the beginning, it should very likely start simple, especially if you are starting from scratch. Like every part of an ethical standard, this goal can change over time to either be more succinct, or specific. 
+
+Given the original purpose of this document, I will create a few goals as examples, along with issues they might have:
+
+
+
+The promotion of games as a form of art. 
+(Simple, but perhaps naive, should all games, regardless of content, be promoted as art? The purpose is straightforward, but needs refinement. Do games really need to be art to be ethical?)
+
+
+Creating a better standard by which games are judged.
+    (“Better” is of course very subjective, so what “better” is would need to be defined in the follow up explanations)
+
+Creating a more open, transparent, and multifaceted approach to game reviewing.
+    (This is vague, but each part of this goal can be defined at a later point, giving understanding to this overall goal.)
+
+Once you have a goal, you can start creating your standard. If you find that as you create your standard that the original goal does not cover or explain the standard you have in mind, it can be updated to better reflect what you are creating.
+
+
+The next step is to define your goal. There is no purpose to a goal if people do not understand it. Using one of the examples above, “Creating a more open, transparent, and multifaceted approach to game reviewing,” we would define what is currently unclear about it.
+
+What is an open approach?
+For this part, open could be further explained (from the current author’s perspective) like this:
+
+    To be an open approach, it has to be available to public scrutiny. Anyone who is judging any particular game should present their known ideas and biases so that their perspective can be understood to those that are reading it. This includes this ethical standard that the reviewer has accepted to use this platform.
+
+To be multifaceted means that the reviewer or reviews should approach the review with more than just whether or not it is good or worth playing.
+
+
+The process from here is actually a repetition of the previous steps, defining, and expanding upon what is previously written. Each revision should attempt to be more specific, and include examples, if they exist.
+
+To be an open approach, it has to be available to public scrutiny. Anyone who is judging any particular game should present their known ideas and biases so that their perspective can be understood to those that are reading it. This includes this ethical standard that the reviewer has accepted to use this platform.
+Biases:
+Disposition towards genre
+Outside factors that may influence your opinion
+Was this game given to you for free when you would have otherwise had to exchange money for it?
+Did you receive gifts related to this game?
+Were you given special treatment by the publisher or developer?
+Are you a hobbyist or a professional reviewer?
+How difficult you find games within its genre
+The year of the review
+The ethical code/standard that you adhered to at the time of the review
+
+To be multifaceted means that the reviewer or reviews should approach the review with more than just whether or not it is good or worth playing.
+While there may be more facets to gaming worth exploring, the current standard by which this code should be followed include the following three factors:
+The game itself as a whole
+How it plays, looks, and its overall merits
+(This would generally be what one would expect from a “typical” review)
+The ethics behind the monetization of said game
+Was the price easy to understand?
+Is it a one time purchase?
+Are there extras?
+How long did it take for those extras to exist?
+Is there a limit to how much you can spend on the game?
+Is what you are purchasing a guarantee, or only a chance at what you want?
+Is what you are purchasing temporary, or permanent?
+Does the purchase give you a competitive advantage?
+Do you buy items directly, or is it converted into another currency before it can be purchased?
+Is that currency a 1 to 1 exchange, or are the ratios different?
+Can you get even more of that currency if you pay more up front?
+Can you buy the exact currency required, or are you forced to purchase more or less to get what you want?
+It costs 500 points, but you can only buy them in quantities of 400 (need to buy more to make up the difference)
+It costs 500 points, but you can only buy them in quantities of 600 (You have to pay more than you want to get what you want)
+(More to be added)
+Lifespan/Longevity - Will this game stand the test of time, long after the creators are gone?
+What platforms can it currently run on?
+Is it open source in any legal way, shape, or form?
+This can be official or unofficial, but must be legal.
+Are new copies/licenses available for purchase?
+Is it dependent on the internet?
+If it is multiplayer, can a server be legally run outside the control of the original publisher/developer? 
+Or does it even need a server?
+Does the publisher have any plans for end-of-life service to allow the game to be played after it loses ‘Official’ support?
+There may be more facets worth exploring, as an understanding of what games can be may expand over time. If so, this ethical standard will be updated.
+
+
+—
+
+This next part is about updating and revising the transparent ethical code/standard.
+
+Some alteration types:
+Revision, addition, and adaptation (Without plagiarism).
+
+Revision: Adopt an ethical code/standard, and revise it to fit your use case. If you are the original author/owner, use a versioning schema. Display what has changed.
+Based upon ethical code/standard version 1, we have revised it to make it v1.1
+For the purposes of this guide, a versioning schema will be recommended, but not enforced, as long as the versioning schema is available, and transparent in how it works.
+    Major: V1 (In this example, this would be the first, finished draft of the code/standard)
+    Minor: V1.1 (In this example, the second number represents a change in the original document that does not alter the original code/standard, but either adds more to it, adds examples, or even context.)
+    Correction: V1.1c1 (This would be a correction, usually spelling or grammar mistakes)
+
+Example progression of versioning:
+        V1 - Initial Draft
+        V1.1 - Added examples
+        V1.1c1 - Corrected spelling of ‘plagiarism’
+        V1.2 - Added more examples
+Note that in this example, each “higher” revision takes precedent over the lower revisions. So if a V2 would exist, it would simply be called V2, and not need the other version numbers. That being said, it should contain (in one system or another) a reference to the previous version it was based upon.
+
+If not, reference the ethical code/standard and version it's based upon. Include a link or reference that displays what has changed. Give it a new name.
+
+The Violet Code
+Based Upon the Flower Code V1.1
+
+Addition: Adopt an ethical code/standard, and add to it as an additional set of standards/values. If you are the original author/owner of the original code/standard, it may sometimes be better to have this as a revision. This is essentially another, new ethical code/standard that adheres to the original code/standard, but has additional supplementary ethical codes/standards. It should not negate or conflict with the original code/standard it adheres to. That would fall under revision, and should at that point be its own ethical code/standard.
+
+
+
+
+Adaptation (Without plagiarism):
+Adopt a part of another ethical code/standard, without using the entire code/standard. Must cite the original work. To keep with transparency, it is important to understand where the standards originated from, so it can be understood how the system grew and evolved over time. State which citation standard you are using. (e.g. American Psychological Association, or Modern Language Association)
+It may be more convenient to use Adaptations as an addition to your original ethical code, to keep it better organized, but that’s just an editing suggestion. 
+
+—
+
+This next part is a matter of reviewing and finalizing the transparent ethical code/standard, once established:
+
+It should state whether the code is a draft or not. And the instructions for creating it should also have this as well.
+
+It is important for any transparent ethical code to be put before the public for scrutiny. The public would be defined as any group of people, both in and outside your immediate peer group. There can be multiple levels to this.
+
+Publicly Available - This level of scrutiny comes from anywhere with no specific knowledge or expertise, like a public forum, social media, etc.
+Must state and link where this was posted and discussed, and if site is still available
+
+The ethical code should state at which point it has been reviewed.
+
+In the future, if possible, it would be nice to have:
+
+Peer-Reviewed - This level of scrutiny comes from people with knowledge or expertise in the area of which you are trying to create this code for. This is currently difficult, because there really is not a standards body for creating and assessing transparent, ethical codes/standards.
+This should include things like: 
+Who (Group/Person/Organization) has peer-reviewed it (And number of people involved)
+The level of expertise involved (Title/[Doctorate]/Professionalism[Amateur/Professional])
+Examples
+Dr. Doe, Doctorate of Computer Science, amateur game reviewer 
+Ms. Doe, Professional game reviewer
+
+
+
+
+
+
+—
+
+This (being the transparent ethical code/standard) is different from a code of conduct.
+
+Foul-Mouthed example. Could be ethical in content, but if the site the reviewer were hosted on had a code of conduct that excluded “foul” language, he would most certainly be in violation of that code, but not necessarily an ethical code.
+
+DRAFT
