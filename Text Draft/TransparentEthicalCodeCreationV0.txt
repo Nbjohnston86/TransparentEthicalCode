@@ -24,7 +24,8 @@ Creation: Creating a purpose-built transparent transparent ethical standard begi
 
 Given the original purpose of this document, I will create a few goals as examples, along with issues they might have:
 
-
+Example
+---
 
 The promotion of games as a form of art. 
 (Simple, but perhaps naive, should all games, regardless of content, be promoted as art? The purpose is straightforward, but needs refinement. Do games really need to be art to be ethical?)
@@ -36,10 +37,15 @@ Creating a better standard by which games are judged.
 Creating a more open, transparent, and multifaceted approach to game reviewing.
     (This is vague, but each part of this goal can be defined at a later point, giving understanding to this overall goal.)
 
+End Example
+---
+
 Once you have a goal, you can start creating your standard. If you find that as you create your standard that the original goal does not cover or explain the standard you have in mind, it can be updated to better reflect what you are creating.
 
-
 The next step is to define your goal. There is no purpose to a goal if people do not understand it. Using one of the examples above, “Creating a more open, transparent, and multifaceted approach to game reviewing,” we would define what is currently unclear about it.
+
+Example
+---
 
 What is an open approach?
 For this part, open could be further explained (from the current author’s perspective) like this:
@@ -48,8 +54,13 @@ For this part, open could be further explained (from the current author’s pers
 
 To be multifaceted means that the reviewer or reviews should approach the review with more than just whether or not it is good or worth playing.
 
+End Example
+---
 
 The process from here is actually a repetition of the previous steps, defining, and expanding upon what is previously written. Each revision should attempt to be more specific, and include examples, if they exist.
+
+Example
+---
 
 To be an open approach, it has to be available to public scrutiny. Anyone who is judging any particular game should present their known ideas and biases so that their perspective can be understood to those that are reading it. This includes this ethical standard that the reviewer has accepted to use this platform.
 Biases:
@@ -95,10 +106,14 @@ Or does it even need a server?
 Does the publisher have any plans for end-of-life service to allow the game to be played after it loses ‘Official’ support?
 There may be more facets worth exploring, as an understanding of what games can be may expand over time. If so, this ethical standard will be updated.
 
+End Example
+---
 
 —
 
 This next part is about updating and revising the transparent ethical code/standard.
+
+Every transparent ethical standard should start as a draft, and should be labeled as such. An unfinished draft of a transparent ethical standard should not be used until it has been reviewed, as there may be accidental fundamental flaws with said system the original author may have overlooked. If you believe or feel that an ethical system is not yet ready to be used, it should be labeled draft, and it's version should stay below 1 (As seen in the examples much futher below).
 
 Some alteration types:
 Revision, addition, and adaptation (Without plagiarism).
@@ -111,24 +126,36 @@ For the purposes of this guide, a versioning schema will be recommended, but not
     Correction: V1.1c1 (This would be a correction, usually spelling or grammar mistakes)
 
 Example progression of versioning:
-        V1 - Initial Draft
+---
+        V0.1 - Initial Draft
+        V1.0 - Finished and Reviewed Draft, ready for usage
         V1.1 - Added examples
         V1.1c1 - Corrected spelling of ‘plagiarism’
         V1.2 - Added more examples
+End Example
+---
+
 Note that in this example, each “higher” revision takes precedent over the lower revisions. So if a V2 would exist, it would simply be called V2, and not need the other version numbers. That being said, it should contain (in one system or another) a reference to the previous version it was based upon.
 
-If not, reference the ethical code/standard and version it's based upon. Include a link or reference that displays what has changed. Give it a new name.
+In the case of Adaptation(See further below), reference the ethical code/standard and version it's based upon. Include a link or reference that displays what has changed. Give it a new name.
+
+Example
+---
 
 The Violet Code
 Based Upon the Flower Code V1.1
 
-Addition: Adopt an ethical code/standard, and add to it as an additional set of standards/values. If you are the original author/owner of the original code/standard, it may sometimes be better to have this as a revision. This is essentially another, new ethical code/standard that adheres to the original code/standard, but has additional supplementary ethical codes/standards. It should not negate or conflict with the original code/standard it adheres to. That would fall under revision, and should at that point be its own ethical code/standard.
+End Example
+---
+
+Addition: Adopt an ethical code/standard, and add to it as an additional set of standards/values. (Note)If you are the original author/owner of the original code/standard, it may sometimes be better to have this as a revision. This is essentially another, new ethical code/standard that adheres to the original code/standard, but has additional supplementary ethical codes/standards. It should not negate or conflict with the original code/standard it adheres to. That would fall under revision, and should at that point be its own ethical code/standard.
 
 
 
 
 Adaptation (Without plagiarism):
-Adopt a part of another ethical code/standard, without using the entire code/standard. Must cite the original work. To keep with transparency, it is important to understand where the standards originated from, so it can be understood how the system grew and evolved over time. State which citation standard you are using. (e.g. American Psychological Association, or Modern Language Association)
+Adopt a part of another ethical code/standard, without using the entire code/standard. Must cite the original work. To keep with transparency, it is important to understand where the standards originated from, so it can be understood how the system grew and evolved over time. State which citation standard you are using. (e.g. American Psychological Association, or Modern Language Association, or other standards that exist)
+While a draft may not be used as an ethical system because of a lack of review, if one were to adapt a draft that was unfinished, that would be acceptable, as long as it is cited, and it can be formally used after the review process.
 It may be more convenient to use Adaptations as an addition to your original ethical code, to keep it better organized, but that’s just an editing suggestion. 
 
 —
@@ -136,6 +163,16 @@ It may be more convenient to use Adaptations as an addition to your original eth
 This next part is a matter of reviewing and finalizing the transparent ethical code/standard, once established:
 
 It should state whether the code is a draft or not. And the instructions for creating it should also have this as well.
+
+The transparent ethical code should be saved in version control. As a result, at least one version of the ethical code should be in a plain text document. This is to make revisions to the document more obvious to version control systems.
+
+The transparent ethical code can have, and is recommended to have a formatted version of the text version of this document. 
+It is also recommended to use a version control system-friendly format. 
+It should be considered version control friendly if the text changes can be easily compared from one version to another. 
+Easy to compare can be considered subjective, so this may vary from code to code. 
+The important thing is to be consistent and not switch formats very often, which can obfuscate differences. 
+For the purposes of this ethical code and this example, this instruction guide will use the Markdown Formatting (based upon GitHub's usage of it, since it is housed there).
+There was at one point a LibreOffice document version of this guide, but it has been deprecated before production, and is only there now for historical purposes (to keep in line with the transparent aspect of these instructions/guides).
 
 It is important for any transparent ethical code to be put before the public for scrutiny. The public would be defined as any group of people, both in and outside your immediate peer group. There can be multiple levels to this.
 
@@ -150,11 +187,15 @@ Peer-Reviewed - This level of scrutiny comes from people with knowledge or exper
 This should include things like: 
 Who (Group/Person/Organization) has peer-reviewed it (And number of people involved)
 The level of expertise involved (Title/[Doctorate]/Professionalism[Amateur/Professional])
+
 Examples
+---
+
 Dr. Doe, Doctorate of Computer Science, amateur game reviewer 
 Ms. Doe, Professional game reviewer
 
-
+End Example
+---
 
 
 
